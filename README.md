@@ -27,6 +27,8 @@ There are various metrics used to measure the accuracy and performance of an obj
 
 We created a yolo v5 custom object detection model that can successfully recognize **PERSON** and **CARS** in an efficient way.
 
+**best.pt** is the custom training model.
+
 🔴 Files for multiple purpose mentioned below
 
 🟢 For file conversion, please refer to : code to coco to yolo.ipynb,
